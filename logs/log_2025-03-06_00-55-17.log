@@ -1,0 +1,286 @@
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:19.209542
+Start name method: initialisation
+
+End time: 2025-03-06 00:55:46.944706
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:46.945715
+Start name method: catalog_navigation_ammo
+
+End time: 2025-03-06 00:55:48.186256
+End name method: catalog_navigation_ammo
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:48.187410
+Start name method: check_current_location
+
+End time: 2025-03-06 00:55:51.246396
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/patrony_dlya_oruzhiya/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:51.247910
+Start name method: select_smoothbore_patron
+
+End time: 2025-03-06 00:55:53.363841
+End name method: select_smoothbore_patron
+URL: https://ohotaktiv.ru/catalog/gladkostvolnye_patrony/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:53.364430
+Start name method: check_current_location
+
+End time: 2025-03-06 00:55:56.408212
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/gladkostvolnye_patrony/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:55:56.408212
+Start name method: set_product_filters
+
+End time: 2025-03-06 00:56:15.286713
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/gladkostvolnye_patrony/?nalichie_v_gorode=moskva&kalibr_2=12x70&tip_zaryada=kartechb
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:56:15.287717
+Start name method: choose_patron
+
+End time: 2025-03-06 00:56:36.509978
+End name method: choose_patron
+URL: https://ohotaktiv.ru/catalog/gladkostvolnye_patrony/?nalichie_v_gorode=moskva&kalibr_2=12x70&tip_zaryada=kartechb
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:56:36.510978
+Start name method: click_basket
+
+End time: 2025-03-06 00:56:39.635807
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:56:39.635807
+Start name method: check_current_location
+
+End time: 2025-03-06 00:56:42.688085
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:56:42.689129
+Start name method: click_increase_stuff
+
+End time: 2025-03-06 00:57:03.444867
+End name method: click_increase_stuff
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:03.445875
+Start name method: print_basket_info
+
+End time: 2025-03-06 00:57:03.584675
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:03.585671
+Start name method: stuff_value
+
+End time: 2025-03-06 00:57:03.638441
+End name method: stuff_value
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:03.638441
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:57:03.756601
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:03.757644
+Start name method: confirmation
+
+End time: 2025-03-06 00:57:08.941710
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:08.941710
+Start name method: check_current_location
+
+End time: 2025-03-06 00:57:11.982643
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:11.982643
+Start name method: set_personal_data
+
+End time: 2025-03-06 00:57:17.519961
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:17.519961
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:57:17.653789
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:17.653789
+Start name method: go_next
+
+End time: 2025-03-06 00:57:20.766836
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:21.775126
+Start name method: set_delivery
+
+End time: 2025-03-06 00:57:28.005397
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:28.005397
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:57:28.134138
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:28.134138
+Start name method: go_next
+
+End time: 2025-03-06 00:57:31.228167
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:31.229226
+Start name method: show_final_order
+
+End time: 2025-03-06 00:57:31.369097
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:31.369097
+Start name method: go_next
+
+End time: 2025-03-06 00:57:34.449539
+End name method: go_next
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:34.449539
+Start name method: check_current_location
+
+End time: 2025-03-06 00:57:37.459679
+End name method: check_current_location
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:37.460705
+Start name method: show_results
+
+End time: 2025-03-06 00:57:39.535499
+End name method: show_results
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore_patron.py::test_buy_smoothbore_patron (call)
+Start time: 2025-03-06 00:57:39.535499
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:57:39.652646
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/result/
+
+-----

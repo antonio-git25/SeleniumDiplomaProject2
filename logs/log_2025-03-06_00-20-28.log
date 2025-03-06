@@ -1,0 +1,264 @@
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:29.618929
+Start name method: initialisation
+
+End time: 2025-03-06 00:20:38.655474
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:38.656473
+Start name method: catalog_navigation_weapon
+
+End time: 2025-03-06 00:20:39.922793
+End name method: catalog_navigation_weapon
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:39.923793
+Start name method: check_current_location
+
+End time: 2025-03-06 00:20:42.973586
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/ognestrelnoe_oruzhie/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:42.974586
+Start name method: select_smoothbore_gun
+
+End time: 2025-03-06 00:20:45.074685
+End name method: select_smoothbore_gun
+URL: https://ohotaktiv.ru/catalog/gladkostvolnoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:45.074685
+Start name method: check_current_location
+
+End time: 2025-03-06 00:20:48.121681
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/gladkostvolnoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:20:48.121681
+Start name method: set_product_filters
+
+End time: 2025-03-06 00:21:03.047338
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/gladkostvolnoe-oruzhie/?kalibr_2=12x76&printsip_deystviya=poluavtomat_gazootvodnbly&price_from=50000&price_to=150000
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:03.047338
+Start name method: choose_product
+
+End time: 2025-03-06 00:21:26.315199
+End name method: choose_product
+URL: https://ohotaktiv.ru/catalog/gladkostvolnoe-oruzhie/?kalibr_2=12x76&printsip_deystviya=poluavtomat_gazootvodnbly&price_from=50000&price_to=150000
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:26.315199
+Start name method: click_basket
+
+End time: 2025-03-06 00:21:29.446554
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:29.446554
+Start name method: check_current_location
+
+End time: 2025-03-06 00:21:32.483383
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:32.483383
+Start name method: print_basket_info
+
+End time: 2025-03-06 00:21:32.608792
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:32.608792
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:21:32.735845
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:32.736870
+Start name method: confirmation
+
+End time: 2025-03-06 00:21:37.913579
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:37.913579
+Start name method: check_current_location
+
+End time: 2025-03-06 00:21:40.952852
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:40.952852
+Start name method: set_personal_data
+
+End time: 2025-03-06 00:21:46.433641
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:46.434641
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:21:46.574748
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:46.574748
+Start name method: go_next
+
+End time: 2025-03-06 00:21:49.667738
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:49.667738
+Start name method: set_delivery
+
+End time: 2025-03-06 00:21:55.906375
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:55.912908
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:21:56.040438
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:56.041445
+Start name method: go_next
+
+End time: 2025-03-06 00:21:59.128562
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:59.128562
+Start name method: show_final_order
+
+End time: 2025-03-06 00:21:59.263509
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:21:59.263509
+Start name method: go_next
+
+End time: 2025-03-06 00:22:02.349282
+End name method: go_next
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:22:02.349282
+Start name method: check_current_location
+
+End time: 2025-03-06 00:22:05.356778
+End name method: check_current_location
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:22:05.356778
+Start name method: show_results
+
+End time: 2025-03-06 00:22:07.437211
+End name method: show_results
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_smoothbore.py::test_buy_smoothbore (call)
+Start time: 2025-03-06 00:22:07.437211
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:22:07.571277
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/result/
+
+-----

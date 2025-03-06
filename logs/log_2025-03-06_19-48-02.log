@@ -1,0 +1,237 @@
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:48:06.285503
+Start name method: initialisation
+
+End time: 2025-03-06 19:48:53.540661
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:48:53.540942
+Start name method: catalog_navigation_weapon
+
+End time: 2025-03-06 19:48:54.785009
+End name method: catalog_navigation_weapon
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:48:54.790976
+Start name method: check_current_location
+
+End time: 2025-03-06 19:48:57.849196
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/ognestrelnoe_oruzhie/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:48:57.850221
+Start name method: select_traumatic_gun
+
+End time: 2025-03-06 19:48:59.939759
+End name method: select_traumatic_gun
+URL: https://ohotaktiv.ru/catalog/travmaticheskoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:48:59.939759
+Start name method: check_current_location
+
+End time: 2025-03-06 19:49:02.977877
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/travmaticheskoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:02.977877
+Start name method: set_product_filters
+
+End time: 2025-03-06 19:49:14.662923
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/travmaticheskoe-oruzhie/?kalibr_2=10x28&price_from=50000&price_to=150000
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:14.662923
+Start name method: choose_product
+
+End time: 2025-03-06 19:49:37.938584
+End name method: choose_product
+URL: https://ohotaktiv.ru/catalog/travmaticheskoe-oruzhie/?kalibr_2=10x28&price_from=50000&price_to=150000
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:37.938584
+Start name method: click_basket
+
+End time: 2025-03-06 19:49:41.066400
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:41.066400
+Start name method: check_current_location
+
+End time: 2025-03-06 19:49:44.126576
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:44.126576
+Start name method: print_basket_info
+
+End time: 2025-03-06 19:49:44.252032
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:44.260548
+Start name method: make_screenshot
+
+End time: 2025-03-06 19:49:44.374694
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:44.374694
+Start name method: confirmation
+
+End time: 2025-03-06 19:49:49.575727
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:49.575727
+Start name method: check_current_location
+
+End time: 2025-03-06 19:49:52.613052
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:52.613052
+Start name method: set_personal_data
+
+End time: 2025-03-06 19:49:58.119768
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:58.120779
+Start name method: make_screenshot
+
+End time: 2025-03-06 19:49:58.250942
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:49:58.251952
+Start name method: go_next
+
+End time: 2025-03-06 19:50:01.346805
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:01.346805
+Start name method: set_delivery
+
+End time: 2025-03-06 19:50:33.501871
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:33.501871
+Start name method: make_screenshot
+
+End time: 2025-03-06 19:50:33.669135
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:33.670137
+Start name method: go_next
+
+End time: 2025-03-06 19:50:36.749932
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:36.749932
+Start name method: show_final_order
+
+End time: 2025-03-06 19:50:36.884407
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:36.915671
+Start name method: go_next
+
+End time: 2025-03-06 19:50:40.001405
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic.py::test_buy_traumatic (call)
+Start time: 2025-03-06 19:50:42.007857
+Start name method: initialisation
+

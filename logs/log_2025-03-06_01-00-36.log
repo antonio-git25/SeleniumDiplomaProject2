@@ -1,0 +1,259 @@
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:37.805448
+Start name method: initialisation
+
+End time: 2025-03-06 01:00:46.775483
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:46.776504
+Start name method: catalog_navigation_ammo
+
+End time: 2025-03-06 01:00:48.051391
+End name method: catalog_navigation_ammo
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:48.051391
+Start name method: check_current_location
+
+End time: 2025-03-06 01:00:51.099037
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/patrony_dlya_oruzhiya/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:51.100049
+Start name method: select_rifled_patron
+
+End time: 2025-03-06 01:00:53.199212
+End name method: select_rifled_patron
+URL: https://ohotaktiv.ru/catalog/nareznye_patrony/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:53.199212
+Start name method: check_current_location
+
+End time: 2025-03-06 01:00:56.247066
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/nareznye_patrony/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:00:56.247066
+Start name method: set_product_filters
+
+End time: 2025-03-06 01:01:16.295552
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/nareznye_patrony/?nalichie_v_gorode=moskva&kalibr_2=308_win&tip_pul=fmj
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:01:16.295552
+Start name method: choose_patron
+
+End time: 2025-03-06 01:01:37.550396
+End name method: choose_patron
+URL: https://ohotaktiv.ru/catalog/nareznye_patrony/?nalichie_v_gorode=moskva&kalibr_2=308_win&tip_pul=fmj
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:01:37.551395
+Start name method: click_basket
+
+End time: 2025-03-06 01:01:40.695909
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:01:40.695909
+Start name method: check_current_location
+
+End time: 2025-03-06 01:01:43.742498
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:01:43.743498
+Start name method: click_increase_stuff
+
+End time: 2025-03-06 01:02:04.517502
+End name method: click_increase_stuff
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:04.517502
+Start name method: print_basket_info
+
+End time: 2025-03-06 01:02:34.716767
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:34.717796
+Start name method: stuff_value
+
+End time: 2025-03-06 01:02:34.757405
+End name method: stuff_value
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:34.757950
+Start name method: make_screenshot
+
+End time: 2025-03-06 01:02:34.899055
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:34.899055
+Start name method: confirmation
+
+End time: 2025-03-06 01:02:40.090190
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:40.091188
+Start name method: check_current_location
+
+End time: 2025-03-06 01:02:43.133625
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:43.134628
+Start name method: set_personal_data
+
+End time: 2025-03-06 01:02:48.615581
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:48.615581
+Start name method: make_screenshot
+
+End time: 2025-03-06 01:02:48.751257
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:48.752267
+Start name method: go_next
+
+End time: 2025-03-06 01:02:51.843148
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:02:52.850463
+Start name method: set_delivery
+
+End time: 2025-03-06 01:03:24.964722
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:03:24.965736
+Start name method: make_screenshot
+
+End time: 2025-03-06 01:03:25.085200
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:03:25.086200
+Start name method: go_next
+
+End time: 2025-03-06 01:03:28.172212
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:03:28.172212
+Start name method: show_final_order
+
+End time: 2025-03-06 01:03:28.314310
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:03:28.315310
+Start name method: go_next
+
+End time: 2025-03-06 01:03:31.395405
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled_patron.py::test_buy_rifled_patron (call)
+Start time: 2025-03-06 01:03:31.396381
+Start name method: check_current_location
+

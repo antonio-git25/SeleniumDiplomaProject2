@@ -1,0 +1,61 @@
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:21.585377
+Start name method: initialisation
+
+End time: 2025-03-06 00:25:30.453572
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:30.454589
+Start name method: catalog_navigation_weapon
+
+End time: 2025-03-06 00:25:31.690005
+End name method: catalog_navigation_weapon
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:31.690005
+Start name method: check_current_location
+
+End time: 2025-03-06 00:25:34.742916
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/ognestrelnoe_oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:34.743913
+Start name method: select_rifled_gun
+
+End time: 2025-03-06 00:25:36.825539
+End name method: select_rifled_gun
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:36.825539
+Start name method: check_current_location
+
+End time: 2025-03-06 00:25:39.869583
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:25:39.869583
+Start name method: set_product_filters
+

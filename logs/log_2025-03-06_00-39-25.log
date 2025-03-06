@@ -1,0 +1,264 @@
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:26.643762
+Start name method: initialisation
+
+End time: 2025-03-06 00:39:35.314949
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:35.314949
+Start name method: catalog_navigation_weapon
+
+End time: 2025-03-06 00:39:36.553614
+End name method: catalog_navigation_weapon
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:36.553614
+Start name method: check_current_location
+
+End time: 2025-03-06 00:39:39.607577
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/ognestrelnoe_oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:39.607577
+Start name method: select_rifled_gun
+
+End time: 2025-03-06 00:39:41.698638
+End name method: select_rifled_gun
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:41.698638
+Start name method: check_current_location
+
+End time: 2025-03-06 00:39:44.752340
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:39:44.752340
+Start name method: set_product_filters
+
+End time: 2025-03-06 00:40:01.718280
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/?kalibr_2=308_win&printsip_deystviya=prodolbnoskolbzyaschiy_boltovoy_zatvor&price_from=200000&price_to=500000
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:01.718280
+Start name method: choose_product
+
+End time: 2025-03-06 00:40:24.970348
+End name method: choose_product
+URL: https://ohotaktiv.ru/catalog/nareznoe-oruzhie/?kalibr_2=308_win&printsip_deystviya=prodolbnoskolbzyaschiy_boltovoy_zatvor&price_from=200000&price_to=500000
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:24.970348
+Start name method: click_basket
+
+End time: 2025-03-06 00:40:28.092574
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:28.092574
+Start name method: check_current_location
+
+End time: 2025-03-06 00:40:31.148694
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:31.149706
+Start name method: print_basket_info
+
+End time: 2025-03-06 00:40:31.289609
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:31.299622
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:40:31.419193
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:31.419193
+Start name method: confirmation
+
+End time: 2025-03-06 00:40:36.611557
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:36.611557
+Start name method: check_current_location
+
+End time: 2025-03-06 00:40:39.660261
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:39.660261
+Start name method: set_personal_data
+
+End time: 2025-03-06 00:40:45.207368
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:45.207368
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:40:45.345923
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:45.346919
+Start name method: go_next
+
+End time: 2025-03-06 00:40:48.445037
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:48.445037
+Start name method: set_delivery
+
+End time: 2025-03-06 00:40:54.668851
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:54.668851
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:40:54.796598
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:54.797623
+Start name method: go_next
+
+End time: 2025-03-06 00:40:57.875353
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:57.875353
+Start name method: show_final_order
+
+End time: 2025-03-06 00:40:57.993121
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:40:57.993121
+Start name method: go_next
+
+End time: 2025-03-06 00:41:01.066593
+End name method: go_next
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:41:01.066593
+Start name method: check_current_location
+
+End time: 2025-03-06 00:41:04.082970
+End name method: check_current_location
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:41:04.082970
+Start name method: show_results
+
+End time: 2025-03-06 00:41:06.150189
+End name method: show_results
+URL: https://ohotaktiv.ru/result/
+
+-----
+
+-----
+Test: test_buy_rifled.py::test_buy_rifled (call)
+Start time: 2025-03-06 00:41:06.150189
+Start name method: make_screenshot
+
+End time: 2025-03-06 00:41:06.278612
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/result/
+
+-----

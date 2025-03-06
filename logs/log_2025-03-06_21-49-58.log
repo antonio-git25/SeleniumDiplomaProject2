@@ -1,0 +1,298 @@
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:49:59.852062
+Start name method: initialisation
+
+End time: 2025-03-06 21:50:08.671126
+End name method: initialisation
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:08.672126
+Start name method: catalog_navigation_ammo
+
+End time: 2025-03-06 21:50:09.965346
+End name method: catalog_navigation_ammo
+URL: https://ohotaktiv.ru/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:09.966341
+Start name method: check_current_location
+
+End time: 2025-03-06 21:50:13.014995
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/patrony_dlya_oruzhiya/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:13.020558
+Start name method: select_traumatic_patron
+
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:15.114793
+Start name method: select_traumatic_patron
+
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:15.114793
+Start name method: check_current_location
+
+End time: 2025-03-06 21:50:18.137399
+End name method: check_current_location
+URL: https://ohotaktiv.ru/catalog/travmaticheskie_patrony/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:18.137399
+Start name method: set_product_filters
+
+End time: 2025-03-06 21:50:32.746653
+End name method: set_product_filters
+URL: https://ohotaktiv.ru/catalog/travmaticheskie_patrony/?nalichie_v_gorode=moskva&kalibr_2=10x28
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:32.746653
+Start name method: choose_patron
+
+End time: 2025-03-06 21:50:53.979382
+End name method: choose_patron
+URL: https://ohotaktiv.ru/catalog/travmaticheskie_patrony/?nalichie_v_gorode=moskva&kalibr_2=10x28
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:53.980406
+Start name method: click_basket
+
+End time: 2025-03-06 21:50:57.091977
+End name method: click_basket
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:50:57.091977
+Start name method: check_current_location
+
+End time: 2025-03-06 21:51:00.140723
+End name method: check_current_location
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:00.140723
+Start name method: click_increase_stuff
+
+End time: 2025-03-06 21:51:20.843620
+End name method: click_increase_stuff
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:20.843620
+Start name method: print_basket_info
+
+End time: 2025-03-06 21:51:20.967967
+End name method: print_basket_info
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:20.967967
+Start name method: stuff_value
+
+End time: 2025-03-06 21:51:20.999627
+End name method: stuff_value
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:20.999627
+Start name method: make_screenshot
+
+End time: 2025-03-06 21:51:21.121629
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/cart/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:21.121629
+Start name method: confirmation
+
+End time: 2025-03-06 21:51:26.311675
+End name method: confirmation
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:26.311675
+Start name method: check_current_location
+
+End time: 2025-03-06 21:51:29.359160
+End name method: check_current_location
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:29.359160
+Start name method: set_personal_data
+
+End time: 2025-03-06 21:51:34.828471
+End name method: set_personal_data
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:34.828471
+Start name method: make_screenshot
+
+End time: 2025-03-06 21:51:34.968588
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:34.969597
+Start name method: go_next
+
+End time: 2025-03-06 21:51:38.042029
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:51:39.049476
+Start name method: set_delivery
+
+End time: 2025-03-06 21:52:11.226607
+End name method: set_delivery
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:11.226607
+Start name method: make_screenshot
+
+End time: 2025-03-06 21:52:11.373585
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:11.374610
+Start name method: go_next
+
+End time: 2025-03-06 21:52:14.450399
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:14.450399
+Start name method: show_final_order
+
+End time: 2025-03-06 21:52:14.567427
+End name method: show_final_order
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:14.598677
+Start name method: go_next
+
+End time: 2025-03-06 21:52:17.672817
+End name method: go_next
+URL: https://ohotaktiv.ru/order/
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:19.679187
+Start name method: initialisation
+
+End time: 2025-03-06 21:52:26.836941
+End name method: initialisation
+URL: https://yoomoney.ru/checkout/payments/v2/contract/bankcard?orderId=2f5c029f-000f-5000-8000-1e9c76c8a09d
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:26.836941
+Start name method: catalog_navigation_weapon
+
+End time: 2025-03-06 21:52:38.276543
+End name method: catalog_navigation_weapon
+URL: https://ohotaktiv.ru/result/?orderId=2f5c029f-000f-5000-8000-1e9c76c8a09d
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:41.285596
+Start name method: show_results
+
+End time: 2025-03-06 21:52:43.356054
+End name method: show_results
+URL: https://ohotaktiv.ru/result/?orderId=2f5c029f-000f-5000-8000-1e9c76c8a09d
+
+-----
+
+-----
+Test: test_buy_traumatic_patron.py::test_buy_traumatic_patron (call)
+Start time: 2025-03-06 21:52:43.362821
+Start name method: make_screenshot
+
+End time: 2025-03-06 21:52:43.505194
+End name method: make_screenshot
+URL: https://ohotaktiv.ru/result/?orderId=2f5c029f-000f-5000-8000-1e9c76c8a09d
+
+-----

@@ -1,0 +1,84 @@
+import time
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service   #for chrome webdriver fix problem with closing
+
+from pages.basket_page import Basket_page
+from pages.order_page import Order_page
+from pages.result_page import Result_page
+from pages.rifled_page import Rifled_page
+from pages.smoothbore_page import Smoothbore_page
+from pages.traumatic_page import Traumatic_page
+from pages.visa_payment_page import Visa_payment_page
+from pages.welcome_page import Welcome_page
+from pages.firearms_page import Firearms_page
+
+
+def test_buy_traumatic():
+    options = webdriver.ChromeOptions()
+    options.add_experimental_option("detach", True)
+    # options.add_argument("--headless") #open driver without visual browser
+    # driver = webdriver.Chrome(executable_path='C:\\Users\\Antonio\\PycharmProjects\\ResourceDriver\\chromedriver.exe')
+    driver = webdriver.Chrome(options=options, service=Service())
+
+    print("Start Test 3: Покупка травматического пистолета")
+
+    wp = Welcome_page(driver)
+    wp.initialisation()
+    wp.catalog_navigation_weapon()
+
+    fp = Firearms_page(driver)
+    fp.check_current_location()
+    fp.select_traumatic_gun()
+
+    tp = Traumatic_page(driver)
+    tp.check_current_location()
+    tp.set_product_filters()
+    tp.choose_product()
+    tp.click_basket()
+
+    bp = Basket_page(driver)
+    bp.check_current_location()
+    bp.print_basket_info()
+    bp.make_screenshot("traumatic-gun", "basket")
+    bp.confirmation()
+
+    op = Order_page(driver)
+    op.check_current_location()
+    op.set_personal_data()
+    op.make_screenshot("traumatic-gun", "persondata")
+    op.go_next()
+    op.set_delivery()
+    op.make_screenshot("traumatic-gun", "delivery")
+    op.go_next()
+    op.show_final_order()
+    ###Check marker for next scenario
+    marker = op.get_payment_marker()  #"Оплата онлайн"/"Оплата при получении"
+    op.go_next()
+
+    rp = Result_page(driver)
+    vpp = Visa_payment_page(driver)
+
+    #Choose final scenario: with pya or without
+    if marker == "Оплата при получении":
+        rp = Result_page(driver)
+        rp.check_current_location()
+        rp.show_results()
+        rp.make_screenshot("traumatic-gun", "result")
+    elif marker == "Оплата онлайн":
+        time.sleep(2)
+        # driver.switch_to.window(driver.window_handles[1])
+        vpp.initialisation()
+        vpp.payment_by_card()
+        time.sleep(3)
+        #
+        rp.show_results()
+        rp.make_screenshot("traumatic-gun", "result")
+
+
+    print("Complete Test 3")
+    time.sleep(5)
+    driver.close()
+
+
+#python -m pytest -s -v test_buy_traumatic.py
